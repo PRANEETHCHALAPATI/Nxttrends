@@ -21,9 +21,9 @@ A fully responsive, modern e-commerce web application for fashion and lifestyle 
 
 - **Frontend:** React.js, JSX, CSS3, HTML5
 - **Routing:** React Router
-- **State Management:** React Context API / useState, useEffect Hooks
+- **State Management:** React Context 
 - **Icons:** React Icons
-- **HTTP Client:** Fetch API / Axios
+- **HTTP Client:** Fetch API 
 - **Hosting:** CCBP Platform
 
 ## 📦 Installation & Setup
