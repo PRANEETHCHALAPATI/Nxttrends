@@ -4,8 +4,7 @@ A fully responsive, modern e-commerce web application for fashion and lifestyle 
 
 **Live Demo:** [https://praxtrendz.ccbp.tech/](https://praxtrendz.ccbp.tech/)
 
-![Praxtrendz Banner](https://via.placeholder.com/800x200/3b82f6/ffffff?text=Praxtrendz+-+Trendy+Fashion+Store)
-*(Note: Replace the placeholder above with an actual screenshot of the website)*
+
 
 ## 🚀 Features
 
@@ -18,7 +17,7 @@ A fully responsive, modern e-commerce web application for fashion and lifestyle 
 
 ## 🛠️ Tech Stack
 
-This project was built as part of the learning curriculum at [CCBP 4.0](https://www.nxtwave.cc/) by NXTWave, utilizing the following technologies:
+
 
 - **Frontend:** React.js, JSX, CSS3, HTML5
 - **Routing:** React Router
