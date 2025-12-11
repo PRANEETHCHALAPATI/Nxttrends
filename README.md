@@ -49,6 +49,10 @@ To run this project locally, follow these steps:
 4.  **Open your browser and navigate to:**
     `http://localhost:3000`
 
+4.  **example login credentials**
+    `username:rahul`
+    `password:rahul@2021`
+
 ## 🗂️ Project Structure
 ```bash
 praxtrendz/
